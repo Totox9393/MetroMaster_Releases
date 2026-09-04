@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/metromaster-logo.svg" width="430" alt="Logo de MetroMaster">
+  <img src="assets/metromaster-logo.svg" width="200" alt="Logo de MetroMaster">
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ MetroMaster est une application de bureau conçue pour consulter rapidement les 
 
 Ouvrez la page de la [dernière version de MetroMaster](https://github.com/Totox9393/MetroMaster_Releases/releases/latest), puis choisissez le fichier adapté à votre ordinateur :
 
-| Système | Fichier conseillé |
-| --- | --- |
-| Windows 10/11, 64 bits | Fichier se terminant par `x64-setup.exe` |
-| Mac avec puce Apple Silicon (M1, M2, M3, M4…) | Fichier se terminant par `aarch64.dmg` |
-| Mac avec processeur Intel | Fichier se terminant par `x64.dmg` |
+| Système                                       | Fichier conseillé                        |
+| --------------------------------------------- | ---------------------------------------- |
+| Windows 10/11, 64 bits                        | Fichier se terminant par `x64-setup.exe` |
+| Mac avec puce Apple Silicon (M1, M2, M3, M4…) | Fichier se terminant par `aarch64.dmg`   |
+| Mac avec processeur Intel                     | Fichier se terminant par `x64.dmg`       |
 
 > Les fichiers `.sig`, `.app.tar.gz` et `latest.json` sont utilisés automatiquement par le système de mise à jour. Ils ne constituent pas des installateurs à ouvrir manuellement.
 
@@ -55,6 +55,10 @@ MetroMaster vérifie automatiquement si une nouvelle version est disponible au d
 Les horaires en direct nécessitent une connexion à Internet. MetroMaster utilise les données et services d’Île-de-France Mobilités. Aucune clé d’accès au service de données n’est intégrée à l’application.
 
 MetroMaster est une application indépendante. Elle n’est ni éditée, ni certifiée, ni exploitée par Île-de-France Mobilités, la RATP, SNCF Voyageurs ou Transilien.
+
+- [Politique de confidentialité](PRIVACY.md)
+- [Licence de MetroMaster](LICENSE.md)
+- [Licences et attributions des données et composants tiers](THIRD_PARTY_NOTICES.md)
 
 ## Assistance
 
