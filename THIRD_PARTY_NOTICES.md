@@ -47,5 +47,6 @@ MetroMaster utilise notamment :
 - Tauri et ses modules, distribués sous licences Apache-2.0 et MIT : <https://github.com/tauri-apps/tauri>
 - React et React DOM, distribués sous licence MIT : <https://github.com/facebook/react/blob/main/LICENSE>
 - Vite, distribué sous licence MIT : <https://github.com/vitejs/vite/blob/main/LICENSE>
+- Roboto et Roboto Condensed, distribuées sous SIL Open Font License 1.1 et intégrées par Fontsource : <https://fontsource.org/licenses>
 
 Les versions exactes des composants JavaScript et Rust sont consignées dans les fichiers de verrouillage du projet source. Chaque composant reste soumis à sa propre licence. Les avis et textes dont la conservation est exigée doivent accompagner les distributions concernées.
