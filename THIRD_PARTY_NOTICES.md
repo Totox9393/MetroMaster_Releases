@@ -40,6 +40,8 @@ Leur présence dans MetroMaster sert uniquement à identifier les lignes, modes 
 
 Les autres ressources sonores ou graphiques provenant de tiers restent soumises aux droits et autorisations de leurs titulaires respectifs.
 
+Les prescriptions signalétiques et leur bibliothèque d’objets graphiques sont publiées par Île-de-France Mobilités sous CC BY-NC-ND 3.0 FR : <https://prim.iledefrance-mobilites.fr/fr/chartes-et-prescriptions/prescriptions/prescriptions-operationnelles/prescriptions-signaletiques>. Les conditions publiées par le producteur à la date d’utilisation prévalent.
+
 ## Principaux composants logiciels
 
 MetroMaster utilise notamment :
