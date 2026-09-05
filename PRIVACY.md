@@ -40,7 +40,7 @@ Comme pour toute communication sur Internet, Cloudflare, GitHub et Île-de-Franc
 - Cloudflare : <https://www.cloudflare.com/privacypolicy/>
 - GitHub : <https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement>
 
-Les réponses de prochains passages peuvent être mises en cache par Cloudflare pendant 15 secondes et les informations trafic pendant 120 secondes. Ce cache réduit le nombre d’appels à PRIM. Le Worker MetroMaster ne possède pas de base de données de trajets et ne crée aucun profil utilisateur. Cloudflare peut néanmoins conserver des journaux techniques conformément à la configuration de son service et à sa politique de confidentialité.
+Les réponses de prochains passages peuvent être mises en cache par Cloudflare pendant 20 secondes et les informations trafic pendant 120 secondes. Ce cache réduit le nombre d’appels à PRIM. Le Worker MetroMaster ne possède pas de base de données de trajets et ne crée aucun profil utilisateur. Cloudflare peut néanmoins conserver des journaux techniques conformément à la configuration de son service et à sa politique de confidentialité.
 
 ## 5. Finalités et bases du traitement
 
